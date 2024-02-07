@@ -1,0 +1,5 @@
+﻿  Contact.c
+G:\C-project\Content\Contact.c(75,45): warning C4028: 形参 1 与声明不同
+  test.c
+  正在生成代码...
+  Content.vcxproj -> G:\C-project\Content\x64\Debug\Content.exe
