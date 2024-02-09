@@ -1,0 +1,4 @@
+﻿  Contact.c
+G:\C-project\ContactFile\Contact.c(33,13): warning C4553: “==”: 未使用表达式结果；是否打算使用“=”?
+G:\C-project\ContactFile\Contact.c(128,45): warning C4028: 形参 1 与声明不同
+  ContactFile.vcxproj -> G:\C-project\ContactFile\x64\Debug\ContactFile.exe
